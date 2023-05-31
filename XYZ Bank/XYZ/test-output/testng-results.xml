@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-31T20:05:05 IST" name="Default suite" finished-at="2023-05-31T20:05:24 IST" duration-ms="18327">
+    <groups>
+    </groups>
+    <test started-at="2023-05-31T20:05:05 IST" name="Default test" finished-at="2023-05-31T20:05:24 IST" duration-ms="18327">
+      <class name="com.testcases.LaunchURL">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testcases.LaunchURL@123ef382]" started-at="2023-05-31T20:05:05 IST" name="setUp" finished-at="2023-05-31T20:05:16 IST" duration-ms="11187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="launchURL()[pri:1, instance:com.testcases.LaunchURL@123ef382]" started-at="2023-05-31T20:05:17 IST" name="launchURL" finished-at="2023-05-31T20:05:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="clickOnCustomer()[pri:2, instance:com.testcases.LaunchURL@123ef382]" started-at="2023-05-31T20:05:17 IST" name="clickOnCustomer" finished-at="2023-05-31T20:05:24 IST" duration-ms="7054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCustomer -->
+      </class> <!-- com.testcases.LaunchURL -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
